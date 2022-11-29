@@ -11,5 +11,4 @@ var x = args.sides || 6;
 var y = args.dice || 2;
 var z = args.rolls || 1;
 
-//console.log(JSON.stringify(roll(x,y,z)));
-console.log("{\"sides\":6,\"dice\":3,\"rolls\":1,\"results\":[10]}")
+console.log(JSON.stringify(roll(x,y,z)));
