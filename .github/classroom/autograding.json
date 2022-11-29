@@ -6,7 +6,7 @@
       "run": "npm link",
       "input": "",
       "output": "",
-      "comparison": "included",
+      "comparison": "regex",
       "timeout": 10,
       "points": 10000
     },
