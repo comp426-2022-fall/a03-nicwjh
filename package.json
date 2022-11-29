@@ -11,7 +11,7 @@
     "url": "git+https://github.com/comp426-2022-fall/a03-nicwjh.git"
   },
   "author": "@nicwjh",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "bin": {
     "roll-dice": "./bin/cli.js"
   },
